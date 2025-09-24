@@ -1,0 +1,65 @@
+body{
+    margin: 0px;
+    background-color: #e8feed;
+}
+main{
+    margin: 20px;
+     margin-left: 20px;
+      margin-right: 20px;
+}
+h1{
+    text-align: center;
+    color: #0c431a;
+}
+nav ul{
+    list-style-type: none;
+     background-color: rgb(67, 131, 71);
+       margin: 0px;
+        padding: 0px;
+         overflow: hidden;
+          position: relative;
+        border-radius: 100px;  
+            
+             
+}   
+nav a{
+    color: aliceblue;
+     text-decoration: none;
+      padding: 15px;
+       display: block;
+       border-radius: 100px;  
+
+       
+}
+nav a:hover{
+    background-color: rgb(35, 92, 47);
+}
+nav li{
+    float: left;
+    align-items: center;
+    
+}
+.monkey{
+    text-align: center;
+    padding-left: 35rem;
+    padding-top: 3rem;
+    width: 170px;
+    height:200px ;
+}
+.games{
+    margin-left: 70px;
+    margin-right: 70px;
+    display: block;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    height: 250px;
+
+}
+.games2{
+    margin-left: 70px;
+    margin-right: 70px;
+    display: block;
+    justify-content: center;
+    display: flex;
+}
